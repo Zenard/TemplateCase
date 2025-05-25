@@ -1,0 +1,20 @@
+{
+    "name": "DB.RepositoryBase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:17f96cd3b93974f6493e51a2f25c1241",
+        "GUID:68405929dcf684b999293d835fa457ea",
+        "GUID:4db5a80ac40fc494196b7191aef159a6",
+        "GUID:5c7817d6827e8400a84c5afd9c054b32"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

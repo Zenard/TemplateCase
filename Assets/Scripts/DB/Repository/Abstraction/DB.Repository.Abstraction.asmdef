@@ -1,0 +1,18 @@
+{
+    "name": "DB.Repository.Abstraction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:68405929dcf684b999293d835fa457ea",
+        "GUID:17f96cd3b93974f6493e51a2f25c1241"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
