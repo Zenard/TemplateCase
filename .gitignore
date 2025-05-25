@@ -1,0 +1,31 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+
+# IDE files
+.idea/
+*.csproj
+*.sln
+*.sln.docstates
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Rider/JetBrains
+*.dotCover
+
+# User-specific
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+
+# VSCode
+.vscode/
+
+# Crash reports
+*.stacktrace
